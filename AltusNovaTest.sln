@@ -1,0 +1,22 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltusNovaTest", "AltusNovaTest\AltusNovaTest.csproj", "{84DCA0BD-E676-4092-A57F-0EAD4A5C25EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltusNovaTest.Tests", "AltusNovaTest.Tests\AltusNovaTest.Tests.csproj", "{16D70348-CF9B-4AE4-BB01-655A31CF83CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84DCA0BD-E676-4092-A57F-0EAD4A5C25EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84DCA0BD-E676-4092-A57F-0EAD4A5C25EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84DCA0BD-E676-4092-A57F-0EAD4A5C25EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84DCA0BD-E676-4092-A57F-0EAD4A5C25EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16D70348-CF9B-4AE4-BB01-655A31CF83CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D70348-CF9B-4AE4-BB01-655A31CF83CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D70348-CF9B-4AE4-BB01-655A31CF83CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D70348-CF9B-4AE4-BB01-655A31CF83CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

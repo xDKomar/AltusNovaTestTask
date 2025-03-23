@@ -1,0 +1,10 @@
+/Users/xdkomar/Projects/AltusNovaTest/Tests/AltusNovaTest.Tests/obj/Debug/net7.0/AltusNovaTest.Tests.csproj.AssemblyReference.cache
+/Users/xdkomar/Projects/AltusNovaTest/Tests/AltusNovaTest.Tests/obj/Debug/net7.0/AltusNovaTest.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xdkomar/Projects/AltusNovaTest/Tests/AltusNovaTest.Tests/obj/Debug/net7.0/AltusNovaTest.Tests.AssemblyInfoInputs.cache
+/Users/xdkomar/Projects/AltusNovaTest/Tests/AltusNovaTest.Tests/obj/Debug/net7.0/AltusNovaTest.Tests.AssemblyInfo.cs
+/Users/xdkomar/Projects/AltusNovaTest/Tests/AltusNovaTest.Tests/obj/Debug/net7.0/AltusNovaTest.Tests.csproj.CoreCompileInputs.cache
+/Users/xdkomar/Projects/AltusNovaTest/AltusNovaTest.Tests/obj/Debug/net7.0/AltusNovaTest.Tests.csproj.AssemblyReference.cache
+/Users/xdkomar/Projects/AltusNovaTest/AltusNovaTest.Tests/obj/Debug/net7.0/AltusNovaTest.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xdkomar/Projects/AltusNovaTest/AltusNovaTest.Tests/obj/Debug/net7.0/AltusNovaTest.Tests.AssemblyInfoInputs.cache
+/Users/xdkomar/Projects/AltusNovaTest/AltusNovaTest.Tests/obj/Debug/net7.0/AltusNovaTest.Tests.AssemblyInfo.cs
+/Users/xdkomar/Projects/AltusNovaTest/AltusNovaTest.Tests/obj/Debug/net7.0/AltusNovaTest.Tests.csproj.CoreCompileInputs.cache

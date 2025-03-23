@@ -1,0 +1,6 @@
+@AltusNovaTest_HostAddress = http://localhost:5002
+
+GET {{AltusNovaTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
