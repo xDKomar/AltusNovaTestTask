@@ -21,7 +21,8 @@ public static class DbInitializer
                 Description = "High-performance laptop",
                 Quantity = 10,
                 UnitPrice = 999.99m,
-                Category = "Electronics"
+                Category = "Electronics",
+                Version = [1, 2, 3, 4, 5 ]
             },
             new Inventory
             {
@@ -29,7 +30,8 @@ public static class DbInitializer
                 Description = "Latest model smartphone",
                 Quantity = 20,
                 UnitPrice = 699.99m,
-                Category = "Electronics"
+                Category = "Electronics",
+                Version = [1, 2, 3, 4, 5 ]
             },
             new Inventory
             {
@@ -37,7 +39,8 @@ public static class DbInitializer
                 Description = "Wireless noise-cancelling headphones",
                 Quantity = 15,
                 UnitPrice = 199.99m,
-                Category = "Accessories"
+                Category = "Accessories",
+                Version = [1, 2, 3, 4, 5 ]
             }
         };
 
