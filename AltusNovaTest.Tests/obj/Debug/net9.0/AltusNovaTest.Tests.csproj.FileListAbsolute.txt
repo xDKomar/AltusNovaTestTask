@@ -121,3 +121,4 @@
 /Users/xdkomar/Projects/AltusNovaTest/AltusNovaTest.Tests/obj/Debug/net9.0/AltusNovaTest.Tests.pdb
 /Users/xdkomar/Projects/AltusNovaTest/AltusNovaTest.Tests/obj/Debug/net9.0/AltusNovaTest.Tests.genruntimeconfig.cache
 /Users/xdkomar/Projects/AltusNovaTest/AltusNovaTest.Tests/obj/Debug/net9.0/ref/AltusNovaTest.Tests.dll
+/Users/xdkomar/Projects/AltusNovaTest/AltusNovaTest.Tests/obj/Debug/net9.0/AltusNovaTest.Tests.sourcelink.json
